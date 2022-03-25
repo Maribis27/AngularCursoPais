@@ -17,6 +17,7 @@ export class PorCapitalComponent  {
 
   constructor(private paisService: PaisService) { }
 
+  
   buscar( termino: string ){
     
     this.hayError = false;

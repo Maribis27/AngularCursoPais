@@ -95,6 +95,7 @@ export interface Name {
     nativeName: NativeName;
 }
 
+
 export interface NativeName {
     aym: Translation;
     que: Translation;

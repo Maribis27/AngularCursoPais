@@ -4,6 +4,7 @@ import { switchMap, tap } from 'rxjs/operators';
 import { Country } from '../../interfaces/pais.interfaces';
 import { PaisService } from '../../services/pais.service';
 
+
 @Component({
   selector: 'app-ver-pais',
   templateUrl: './ver-pais.component.html',
